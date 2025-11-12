@@ -42,6 +42,6 @@ This is the deep-dive page. From the main dashboard, you can drill through to th
 
 This dashboard showcases how Power BI can transform raw job posting data into a powerful tool for career analysis. It allows users to slice, filter, and drill through data to make informed decisions about their career paths.
 
-![Data Jobs Dashboard Page 1](../Jobs%20Dashboard/Screenshot%202025-11-12%20021317.png) 
+![Data Jobs Dashboard Page 1](../Jobs%20Dashboard/images/Screenshot%202025-11-12%20021317.png) 
 
-![Data Jobs Dashboard Page 2](../Jobs%20Dashboard/Screenshot%202025-11-12%20021357.png) # Jobs-Dashboard
+![Data Jobs Dashboard Page 2](../Jobs%20Dashboard/iamges/Screenshot%202025-11-12%20021357.png) # Jobs-Dashboard
